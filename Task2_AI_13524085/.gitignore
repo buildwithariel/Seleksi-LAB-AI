@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data mentah kompetisi Kaggle, tidak diredistribusikan lewat repo publik.
+# Unduh dari halaman kompetisi lalu taruh di data/ (lihat README).
+data/
