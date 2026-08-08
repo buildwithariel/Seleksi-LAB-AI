@@ -1,0 +1,5 @@
+# Artefak yang dihasilkan otomatis saat program dijalankan - jangan di-commit.
+game_log.txt
+leaderboard.txt
+generated_map.txt
+tests/tmp_*
